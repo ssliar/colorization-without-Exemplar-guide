@@ -24,7 +24,6 @@ Test On Picture:
 ----
 ```
     python testVideo.py --input video_input
-    
 ```
 
 Results:
